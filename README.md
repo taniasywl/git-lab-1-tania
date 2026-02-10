@@ -6,3 +6,7 @@ What I'm Learning
 - Git basics
 - version control 
 Collaboration with team 
+## Features
+- Dark mode toggle
+- Responsive design
+- Clean UI
